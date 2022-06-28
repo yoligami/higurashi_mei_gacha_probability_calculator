@@ -9,5 +9,6 @@ Here is the list of all stuff I would like to calculate and display respective c
 
 1. In x rolls(10<=x<=300), what is the probability for you to get the SSR you want with different
 probability of that SSR.
-2. In x rolls(10<=x<=300), what is the probability for you to get the star 6 SSR you want with different
+2. In x rolls(10<=x<=900), what is the probability for you to get the star 6 SSR you want with different
 probability of that SSR.
+
